@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img alt="app" src="https://user-images.githubusercontent.com/45167583/147610094-4637a939-f727-4f34-bdd9-b03f7f145744.gif" />
+</h1>
 
-## Getting Started
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img alt="spacetraveling." src="https://user-images.githubusercontent.com/45167583/145209975-29ed324e-e84d-46df-818c-746f25588794.png" width="120px">
+</p>
+
+## 🧪 Technologies
+
+This project was developed using the following technologies:
+
+- [NextJs](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Swiper](https://swiperjs.com/)
+
+## 🚀 Getting started
+
+Follow the steps below
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone the project
+git clone https://github.com/YuriFarnesio/worldtrip.git
+
+# Access the folder
+cd worldtrip
+
+# Install the dependencies
+$ yarn
+
+# Start the server
+$ yarn server
+
+# Start the project
+$ yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Project
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Extra project of the fourth chapter of Ignite, where I created an application from scratch, following a Figma layout using Chakra UI.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+This is a project developed during the fourth Chapter of Bootcamp Ignite ** presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br />
 
-## Learn More
+<h1 align="center">
+    <img alt="worldtrip" src="https://user-images.githubusercontent.com/45167583/147610097-2570aac7-231b-418f-b660-0d6760a854c2.png" />
+</h1>
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the MIT License.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<hr />
+<p>by Yuri Farnesio :wave: <a href="https://linktr.ee/YuriFarnesio">Get in touch!</a></p>
