@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="spacetraveling." src="https://user-images.githubusercontent.com/45167583/145209975-29ed324e-e84d-46df-818c-746f25588794.png" width="120px">
+  <img alt="worldtrip." src="https://user-images.githubusercontent.com/45167583/147610700-9a55bc75-942d-4b8f-a27b-78366512a9c4.png" width="120px">
 </p>
 
 ## 🧪 Technologies
